@@ -1,0 +1,18 @@
+//META{"name":"windows 10 theme","description":" A better version of discord for discord","author":"Reuben","version":"1.0"}*//{}
+/* ################## theme by ################## */
+/* ## reuben                        ## */
+/* ## tako [ code form tako theme]  ## */
+/* ## ------------------------------------------------- ## */
+/* ## Most icons by Icons8                              ## */
+/* ## https://icons8.com                                ## */
+/* ####################################################### */
+
+@import url(https://raw.githack.com/gco360/windows-10-theme/master/windows10.css);
+
+:root{
+    --background-image: url(https://wallpapertag.com/wallpaper/full/5/1/e/241036-cool-cool-windows-10-backgrounds-2560x1440.jpg);
+    --background-brightness: 0.6;
+  --accent: #0072C6;
+  --link: #0078D7;
+  --guildvoice: #10893E; 
+}
